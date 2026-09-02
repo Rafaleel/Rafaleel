@@ -90,6 +90,8 @@
 
 ### 📌 Projetos em destaque
 
+**[Aegis Cast](https://github.com/Rafaleel/Aegis-Cast)** · **[Acessar aplicação](https://aegiscast.onrender.com/)** Aplicação web em beta para compartilhamento de tela, câmera, microfone e chat entre navegadores com WebRTC. Não exige cadastro e mantém o backend restrito à sinalização em memória, com RTCDataChannel, recuperação de ICE e suporte configurável a TURN.
+
 **[book-quote-vault](https://github.com/Rafaleel/book-quote-vault)**
 Aplicação full-stack para organizar citações de livros. Backend em Java/Spring Boot (Spring Security, JWT, OAuth2, JPA/Hibernate, PostgreSQL) + frontend em React/Vite/TypeScript com Tailwind CSS.
 
